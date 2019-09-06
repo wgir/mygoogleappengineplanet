@@ -1,6 +1,6 @@
 runtime: java
 env: flex
-service: mygoogleappengineplanet
+service: default
 
 handlers:
   - url: /.*
