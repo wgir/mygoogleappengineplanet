@@ -44,7 +44,7 @@
 				<configuration>
 				  	<appId>my-2do-project-84927</appId>
 				  	<app.id>my-2do-project-84927</app.id>
-				    <project>my-2do-project-84927</project>
+				    <projectId>my-2do-project-84927</projectId>
 				    <version>1</version>
 				    <gcloud_directory>/target</gcloud_directory>
 				 </configuration>
