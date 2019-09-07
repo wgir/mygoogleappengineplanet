@@ -42,10 +42,9 @@
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>2.1.0</version>
 				<configuration>
-				  	<appId>my-project-3-19763</appId>
-				  	<app.id>my-project-3-19763</app.id>
-				    <projectId>my-project-3-19763</projectId>
-				    <version>1</version>
+				  	<appId>my-project-4-19763</appId>
+				  	<app.id>my-project-4-19763</app.id>
+				    <projectId>my-project-4-19763</projectId>
 				    <gcloud_directory>/target</gcloud_directory>
 				 </configuration>
 			</plugin>
