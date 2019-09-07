@@ -11,3 +11,7 @@ manual_scaling:
   
 readiness_check:
     app_start_timeout_sec: 1800
+
+resources:
+  cpu: 1
+  memory_gb: 1
