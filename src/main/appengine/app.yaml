@@ -1,6 +1,6 @@
 runtime: java
 env: flex
-service: default
+service: mygoogleappengineplanet
 
 handlers:
   - url: /.*
@@ -14,4 +14,4 @@ readiness_check:
 
 resources:
   cpu: 1
-  memory_gb: 1
+  memory_gb: 0.7
