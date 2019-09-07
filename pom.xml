@@ -16,6 +16,8 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		 <maven.build.timestamp.format>yyyyMMdd't'HHmmss</maven.build.timestamp.format>
+         <build.timestamp>${maven.build.timestamp}</build.timestamp>
 	</properties>
 
 	<dependencies>
@@ -45,7 +47,7 @@
 				  	<appId>my-project-4-19763</appId>
 				  	<app.id>my-project-4-19763</app.id>
 				    <projectId>my-project-4-19763</projectId>
-				    <version>1</version>
+				    <version>${build.timestamp}</version>
 				    <gcloud_directory>/target</gcloud_directory>
 				 </configuration>
 			</plugin>
